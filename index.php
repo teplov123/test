@@ -1,3 +1,3 @@
 <?php 
-echo 'My third file';
+echo 'My file';
 ?>
