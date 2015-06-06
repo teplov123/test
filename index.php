@@ -1,3 +1,3 @@
 <?php 
-echo 'terer';
+echo 'My third file';
 ?>
