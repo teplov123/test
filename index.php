@@ -1,3 +1,3 @@
 <?php 
-echo 'Ну наконец!';
+echo 'My second file!';
 ?>
